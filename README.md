@@ -20,7 +20,7 @@ The report is divided into **three main dashboards**:
 
 ## 📁 File Contents
 
-- `BankLoanReport.pbix` – Power BI project file (dashboard with visuals, metrics, and filters)
+- `Dashboard.pbix` – Power BI project file (dashboard with visuals, metrics, and filters)
 
 ---
 
